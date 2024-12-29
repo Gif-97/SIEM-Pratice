@@ -12,8 +12,7 @@ Questo documento descrive i passaggi eseguiti per integrare Wazuh nel mio proget
       - **Disco**: 50 GB
       - **Scheda di rete**: LAN SEGMENT > DMZ LAN
 
-    <img src="(https://github.com/Gif-97/SIEM-Pratice/blob/main/media/configurazioneVmPerUbuntuServerWazuh.png)" width=650 height=450>
-
+![Configurazione VM Wazuh](https://github.com/Gif-97/SIEM-Pratice/blob/main/media/configurazioneVmPerUbuntuServerWazuh.png)
 
 2. **Installazione di Ubuntu**:
     - Ho scaricato l'ISO di Ubuntu Server 22.04.01 dal sito ufficiale.
