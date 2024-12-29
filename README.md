@@ -12,7 +12,7 @@ Questo documento descrive i passaggi eseguiti per integrare Wazuh nel mio proget
       - **Disco**: 50 GB
       - **Scheda di rete**: LAN SEGMENT > DMZ LAN
 
-    <img src="(https://github.com/Gif-97/SIEM-Pratice/blob/main/media/configurazione%20vm%20per%20ubuntuServerWazuh.png)" width=450 height=250>
+    <img src="(https://github.com/Gif-97/SIEM-Pratice/blob/main/media/configurazioneVmPerUbuntuServerWazuh.png)" width=450 height=250>
 
 
 2. **Installazione di Ubuntu**:
