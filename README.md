@@ -12,6 +12,9 @@ Questo documento descrive i passaggi eseguiti per integrare Wazuh nel mio proget
       - **Disco**: 50 GB
       - **Scheda di rete**: LAN SEGMENT > DMZ LAN
 
+    <img src="(https://github.com/Gif-97/SIEM-Pratice/blob/main/media/configurazione%20vm%20per%20ubuntuServerWazuh.png)" width=450 height=250>
+
+
 2. **Installazione di Ubuntu**:
     - Ho scaricato l'ISO di Ubuntu Server 22.04.01 dal sito ufficiale.
     - Durante l'installazione, ho configurato un hostname (`wazuhman`) e un IP statico per la rete DMZ (192.168.3.11).
